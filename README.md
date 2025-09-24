@@ -1,2 +1,2 @@
 #DCC202 2025-3-b
-Igor Knop de Oliveira
+Igor Knop
